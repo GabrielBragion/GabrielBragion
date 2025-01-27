@@ -6,3 +6,13 @@
 
 <h2>📊 Minhas estatísticas</h2> 
 <img src="https://github-readme-stats.vercel.app/api?username=GabrielBragion&show_icons=true&theme=prussian&hide_title=true" alt="Informações de estatisticas do github">
+
+
+<table>
+  <tr>
+    <td style="background-color:#FF0000; color: white; padding: 20px;">
+      <h2>Bem-vindo ao meu perfil! 🚀</h2>
+      <p>Desenvolvedor especializado em aplicações web com foco em oferecer experiências interativas e visualmente atraentes. Abordagem que integra design e funcionalidade, garantindo soluções modernas e intuitivas.</p>
+    </td>
+  </tr>
+</table>
